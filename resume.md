@@ -19,13 +19,9 @@ Tao Platt is a Senior Associate at the Centre of Digital Excellence (C0DE) at Ge
 * **Master of Science:** Development Studies (with distinction, ranked 1st in class), London School of Economics, 2020  
 * **Bachelor of Business Science:** Economics (in the first class), University of Cape Town, 2018
 
-## **Areas of Expertise**
-
-Technology governance, competition policy, digital public infrastructure, data governance, platform regulation, broadband and telecoms policy, AI governance, political economy, social entrepreneurship
-
 ## **Countries of Work Experience**
 
-Australia, Belgium, Ghana, France, Kenya, Lesotho; Nigeria, India, United Kingdom, Uganda, South Africa, Spain
+Australia, Belgium, Ghana, France, Kenya, Lesotho, Mozambique, Nigeria, India, United Kingdom, Uganda, South Africa, Spain
 
 ## **Selected project experience**  
 
@@ -42,7 +38,7 @@ The objective of the project is to conduct a comprehensive study on regulatory i
 The DIPS initiative aims to inclusively strengthen the resilience of vulnerable South Africans using fit-for-purpose, standards driven and integrated data and technology to improve the harmonization, design and delivery of pro-poor government services and benefits. The programme will implement pilots that digitise select clusters of pro-poor government services, aiming to improve policy design, resource allocation and delivery incrementally. These pilots will start with a “Proof of Concept'' phase, which will focus on integrating separate datasets so that they function together in an interoperable manner, to have a better analytical base for social policy decisions. The programme will also look to stimulate broader government support for digitisation, moving toward a longer-term whole-of-government vision for using data intelligence to inform improved, evidence-based policymaking, as well as delivering pro-poor government services through data, digital ID and digital payments. Tao is the research manager of this assignment. This entails, among other roles: leading a team of multiple junior consultants, setting workstream research agendas,  leading stakeholder consultations (including senior government stakeholders), setting work plans and organising workshops.
 
 ### **Amazon Web Services:** Cloud regulations as an enabler of AI in MEA  
-> **Senior Associate, Oct 2023 – ongoing**  
+> **Senior Associate, Oct 2023 – Dec 2023**  
 AI potential for key industries to produce economic and socio-economic benefits have a dependency on access and use of cloud technology and innovation. Policy and regulatory approaches can place restraints on access to cloud technology and innovation and limit AI potential. This Report considers policy and regulatory approaches to AI and Cloud in the Middle East and Africa, including data protection, consumer protection and cybersecurity regulation to understand barriers to AI in cloud uptake. This Report makes recommendations to regulators on how to strike a balance between regulatory safeguards and enabling AI innovation in the Middle East and Africa. This project recommends stakeholder engagement and communications to sensitise regulators on balanced approaches to regulation. Tao is a key consultant on this assignment, responsible for research, drafting and providing technical guidance to a junior consultant.
 
 ### **DAI & USAID:** Cross-sectoral digital services guidance note  
