@@ -6,12 +6,12 @@ Tao Platt is a Senior Associate at the Centre of Digital Excellence (C0DE) at Ge
 
 ## **Work Timeline**
 
-| *Sep 2023 - current* | Senior Associate | Centre of Digital Excellence (C0DE), Genesis Analytics, London |
-| *Feb 2022 - Aug 2023* | Associate | Centre of Digital Excellence (C0DE), Genesis Analytics, Cape Town |
-| *Dec 2021 - Jan 2022* | Consultant | Bertha Centre for Social Entrepreneurship and Innovation, Cape Town |
-| *Jan 2021 - Jul 2021* | Associate | RBB Economics, Johannesburg |
-| *Feb 2019 - Aug 2019* | Intern / Junior Associate | RBB Economics, Johannesburg |
-| *Mar 2018 - Aug 2018* | Research Assistant | GMT+ Behavioural Solutions, Cape Town |
+| Sep 2023 - current | Senior Associate | Centre of Digital Excellence (C0DE), Genesis Analytics, London |
+| Feb 2022 - Aug 2023 | Associate | Centre of Digital Excellence (C0DE), Genesis Analytics, Cape Town |
+| Dec 2021 - Jan 2022 | Consultant | Bertha Centre for Social Entrepreneurship and Innovation, Cape Town |
+| Jan 2021 - Jul 2021 | Associate | RBB Economics, Johannesburg |
+| Feb 2019 - Aug 2019 | Intern / Junior Associate | RBB Economics, Johannesburg |
+| Mar 2018 - Aug 2018 | Research Assistant | GMT+ Behavioural Solutions, Cape Town |
 
 
 ## **Education**
